@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Milk Mysorepak",
+    "category": "Ghee Sweets",
+    "price": 440,
+    "weight": "500g",
+    "branches": ["Jubilee Hills", "Madhapur"],
+    "image": "/images/mysorepak.jpg",
+    "bestseller": true
+  },
+  {
+    "id": "2",
+    "name": "Motichur Laddu",
+    "category": "Ghee Sweets",
+    "price": 520,
+    "weight": "500g",
+    "branches": ["Jubilee Hills"],
+    "image": "/images/laddu.jpg",
+    "bestseller": true
+  },
+  {
+    "id": "3",
+    "name": "Kaju Katli",
+    "category": "Dry Fruit",
+    "price": 550,
+    "weight": "500g",
+    "branches": ["Jubilee Hills", "Madhapur"],
+    "image": "/images/kajukatli.jpg",
+    "bestseller": true
+  },
+  {
+    "id": "4",
+    "name": "Bellam Kaju",
+    "category": "Jaggery Sweets",
+    "price": 240,
+    "weight": "250g",
+    "branches": ["Madhapur"],
+    "image": "/images/bellamkaju.jpg",
+    "bestseller": false
+  },
+  {
+    "id": "5",
+    "name": "Ribbon Pakoda",
+    "category": "Snacks",
+    "price": 205,
+    "weight": "250g",
+    "branches": ["Jubilee Hills", "Madhapur"],
+    "image": "/images/ribbon.jpg",
+    "bestseller": false
+  }
+]
